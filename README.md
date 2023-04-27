@@ -1,6 +1,6 @@
 # Switchgear_calculation
 
-![Screenshot](https://cdn-151.anonfiles.com/R4RfI3n6z6/b7103630-1682585505/Screenshot_4.png "Орк")
+![Screenshot](https://cdn-151.anonfiles.com/R4RfI3n6z6/b7103630-1682585505/Screenshot_4.png "Dynamo screenshot")
 
 # Python code
 ```
